@@ -1,2 +1,2 @@
 # Computer-vision
-Understanding of object detection, Segmentation, Stable-diffusion models.
+This repo contains the implementation of various models like TracknetV3, YOLOv8, YOLO 11 object detection and segmentation models.
